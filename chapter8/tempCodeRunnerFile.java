@@ -1,1 +1,3 @@
-        // enumset = EnumSet.copyOf(c);
+public int checkCards() {
+
+    // }
